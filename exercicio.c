@@ -10,7 +10,7 @@ int main()
 
 
     printf("Insert:\n");
-    gets(nome);
+    scanf("%s", nome);
 
     while(nome[i])
     {
